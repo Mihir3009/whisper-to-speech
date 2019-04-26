@@ -4,5 +4,5 @@ After getting the results from the Machine learning architecture, we need to syn
 AHOCODER. You need to run:
 
 ```
-$ ./
+$ ./aho_synth.sh
 ```
