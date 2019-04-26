@@ -8,5 +8,5 @@ For more about AHOCODER, you can refer [this link.](https://aholab.ehu.es/ahocod
 We already have given all the versions of AHOCODER here. You need to run:
 
 ```
-$ ./
+$ ./aho_feature.sh
 ```
