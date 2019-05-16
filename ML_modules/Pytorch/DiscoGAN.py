@@ -289,7 +289,7 @@ def validating(data_loader):
     return Drunning_loss/(en+1),Grunning_loss/(en+1)
     
     
- 
+ # For the training, it is true. otherwise False
 isTrain = True
 
 
